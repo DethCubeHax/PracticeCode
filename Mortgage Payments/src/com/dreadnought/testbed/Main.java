@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Open a scanner to read lines and currency to fix the formatting
+        // Open a scanner to read lines and currency to fix the formattingau
         Scanner reader = new Scanner(System.in);
         NumberFormat outputCurrency = NumberFormat.getCurrencyInstance();
 
